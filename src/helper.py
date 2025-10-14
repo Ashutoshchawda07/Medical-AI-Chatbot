@@ -41,4 +41,4 @@ def download_embeddings():
         model_name=model_name
        
     )
-    return embeddings    
+    return embeddings
